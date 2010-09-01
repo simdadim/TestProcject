@@ -1,0 +1,3 @@
+Dette er en enkelt testfil.
+
+Hvis alt fungerer skal en linje dukke opp under her med en tekst:
